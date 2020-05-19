@@ -1,0 +1,72 @@
+{
+    "quizID": "C++ Questions",
+    "quizMetaData":
+    {
+        "title": "C++ Knowledge",
+        "imageURI": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png"
+
+    },
+    "quizContent":		
+		[
+			{
+				"question": "Wanneer kwam C++ voor het eerst voor?",
+				"answers": [{
+						"answer": "2017",
+						"feedback": false
+					},
+					{
+						"answer": "1990",
+						"feedback": false
+					},
+					{
+						"answer": "1985",
+						"feedback": true
+					},
+					{
+						"answer": "2003",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Wanneer kwam de stable release van C++ uit?",
+				"answers": [{
+						"answer": "2017",
+						"feedback": true
+					},
+					{
+						"answer": "1990",
+						"feedback": false
+					},
+					{
+						"answer": "2014",
+						"feedback": false
+					},
+					{
+						"answer": "2008",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Hoe werd C++ origineel genoemd?",
+				"answers": [{
+						"answer": "C#+",
+						"feedback": false
+					},
+					{
+						"answer": "C+=",
+						"feedback": false
+					},
+					{
+						"answer": "The New C",
+						"feedback": true
+					},
+					{
+						"answer": "BetterC",
+						"feedback": false
+					}
+				]
+			}
+		]
+	}
