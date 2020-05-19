@@ -4,7 +4,7 @@
 Link naar de online versie: [http://30104.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/quiz/](http://30104.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/quiz/)
 
 Demo video: 
-![alt text](https://i.gyazo.com/977119c4cb71e638bf0f014138109de5.mp4 "demo van de quiz")
+![alt text](http://30104.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/quiz/gif.gif "demo van de quiz")
 
 
 De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing](https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing)
